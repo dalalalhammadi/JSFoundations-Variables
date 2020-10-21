@@ -67,3 +67,9 @@ After finishing the task and verifying your work, follow these steps to push you
 3. Run the command `git add .`
 4. Run `git commit -m "your message here"`.
 5. Push to GitHub: `git push`.
+
+let name = "Dalal"
+let age = (13)
+let hoppy = "reading"
+
+console.log (" Mrs \${`name`}, in 33 years old , by then you'll be \${ `age` + 33} have decades of \${`hoppy`} practice ! )
